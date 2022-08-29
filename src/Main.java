@@ -23,7 +23,7 @@ public class Main {
         float a = 27.12f;
         long b = 987_678_965_549L;
         double c = 2.786;
-        boolean dogIsAdult = dog > 15;
+        boolean dogIsAdult = dog > 12;
         System.out.println(dogIsAdult);
         short e = 569;
         short f = -159;
